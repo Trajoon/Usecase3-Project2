@@ -90,7 +90,7 @@ Times Higher Education 2022 & 2023:
 3. Bivariate Analysis: was used to identify the countries with the most top-ranked universities. 
 4. Multivariate Analysis: used heatmap to check the corrleation between scores and each factor in Center for World University Ranking dataset.
 
-#Team Members
+# Team Members
 - Raghad Alharbi
 - Sarah Belal
 - Sultan Alqasami
